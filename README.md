@@ -9,10 +9,17 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lantmann&layout=compact)] -->
 ## Contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaslangerlantmann/)
 
 lucaslantmann@gmail.com
+
+
+<!--
+
+### Linguagens mais utilizadas neste Git
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lantmann)](https://github.com/lantmann/github-readme-stats)
+
+-->
 
 <!-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) -->
