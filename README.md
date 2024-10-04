@@ -1,7 +1,7 @@
 # Olá! Eu sou o Lucas 🖐️
 <!-- ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lantmann&show_icons=true&theme=radical) -->
 
-## Linguagens que tenho conhecimento
+# Linguagens que tenho conhecimento
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -15,9 +15,11 @@
 
 lucaslantmann@gmail.com
 
-### Linguagens mais utilizadas
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lantmann)](https://github.com/lantmann/github-readme-stats) -->
+<!--
+### Linguagens mais utilizadas
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lantmann)](https://github.com/lantmann/github-readme-stats)
+ -->
 
 
 <!-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) -->
