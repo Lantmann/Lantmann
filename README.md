@@ -18,6 +18,15 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucaslantmann@gmail.com)
 
 <!--
+Dynamic Badges
+-->
+<!--
 ### Linguagens mais utilizadas nesse git
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lantmann)](https://github.com/lantmann/github-readme-stats)
- -->
+
+
+### ⏱ Streak Stats
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user={Lantmann}&theme={radical})
+
+-->
